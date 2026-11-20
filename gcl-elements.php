@@ -3,7 +3,7 @@
  * Plugin Name: GCL Elements
  * Description: Gulf Coast Local's custom Breakdance elements, macros and presets (Element Studio save location).
  * Author: Gulf Coast Local
- * Version: 1.1.0
+ * Version: 1.2.0
  * Requires Plugins: breakdance
  * Update URI: https://github.com/GulfCoastLocal/gcl-elements
  */

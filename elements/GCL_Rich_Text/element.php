@@ -7,11 +7,11 @@ use function Breakdance\Elements\PresetSections\getPresetSection;
 
 
 \Breakdance\ElementStudio\registerElementForEditing(
-    "GclElements\\RichText",
+    "GclElements\\GclRichText",
     \Breakdance\Util\getdirectoryPathRelativeToPluginFolder(__DIR__)
 );
 
-class RichText extends \Breakdance\Elements\Element
+class GclRichText extends \Breakdance\Elements\Element
 {
     static function uiIcon()
     {
